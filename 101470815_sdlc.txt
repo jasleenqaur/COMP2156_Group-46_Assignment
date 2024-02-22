@@ -6,10 +6,6 @@ Continuous Integration and Deployment (CI/CD):
 DevOps emphasizes automated testing, integration, and deployment.
 Engineers learn to automate repetitive tasks, reducing manual errors.
 CI/CD pipelines enable rapid and reliable software releases.
-Infrastructure as Code (IaC):
-DevOps engineers treat infrastructure like code.
-Learning IaC tools (e.g., Terraform, Ansible) allows them to provision and manage resources efficiently.
-Infrastructure changes become version-controlled and reproducible.
 Scalability and Resilience:
 DevOps practices ensure systems can scale seamlessly.
 Engineers learn to design resilient architectures, handle traffic spikes, and maintain high availability.
