@@ -19,3 +19,4 @@ Cross-functional Collaboration:
 
 Picture a team of superheroes working together to save the day. DevOps engineers bring different groups of people together—like developers and IT experts—to work as a team and solve problems efficiently.
 In simple terms, DevOps engineers are like the behind-the-scenes wizards who make sure the software you use works well, stays safe, and keeps improving over time.
+I will be grateful to gbc
