@@ -25,3 +25,5 @@ Business Impact:
 
 Embracing DevOps practices can lead to numerous benefits for organizations, including accelerated delivery cycles, improved product quality, increased efficiency, and enhanced customer satisfaction. Ultimately, DevOps drives organizational success and competitiveness in the digital landscape.
 Through my exploration of DevOps principles and methodologies, I've gained valuable insights into modern software development practices, empowering me to contribute effectively to collaborative and agile teams in the ever-evolving technology landscape.
+
+Devops is the future of computer science
