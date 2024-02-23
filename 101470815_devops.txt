@@ -3,7 +3,7 @@ The course equips students with procedures, protocols, and best practices used b
 Students analyze and evaluate various developer operation implementations and gain hands-on experience using industry-standard tools.
 They learn to create solutions for complex business problems while adhering to core DevOps responsibilities.
 The course covers data formats (XML, JSON, YAML, YANG) and their value in network automation.
-DevOps tools like Ansible and Git are explored.
+
 Course Outcomes:
 System and Network Engineering: Students effectively perform DevOps roles using industry-standard tools, CI/CD practices, and containerization for deployment.
 DevOps Strategies and Skills: They demonstrate proficiency in using DevOps tools and cloud database technologies.
