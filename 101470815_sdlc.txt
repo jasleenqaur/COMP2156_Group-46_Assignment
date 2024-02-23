@@ -6,10 +6,12 @@ Continuous Integration and Deployment (CI/CD):
 DevOps emphasizes automated testing, integration, and deployment.
 Engineers learn to automate repetitive tasks, reducing manual errors.
 CI/CD pipelines enable rapid and reliable software releases.
+
 Scalability and Resilience:
 DevOps practices ensure systems can scale seamlessly.
 Engineers learn to design resilient architectures, handle traffic spikes, and maintain high availability.
 Monitoring and auto-scaling become integral parts of development.
+
 Security and Compliance:
 DevOps integrates security early in the development process.
 Engineers understand security best practices, vulnerability scanning, and compliance requirements.
