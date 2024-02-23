@@ -3,8 +3,10 @@ George Brown College is a public community college in Toronto, Ontario, Canada. 
 History:
 George Brown College was founded in 1967 as a result of the merger of three smaller colleges: The Toronto Institute of Technology, The Central Technical School, and The Eastern Commerce and Vocational School. The college was named after George Brown, a Scottish-born businessman and politician who was one of the founding fathers of Ontario.
 
+
 Academics:
 George Brown College offers a wide range of programs in a variety of fields, including:
+
 
 Business:
 Engineering and technology
@@ -15,7 +17,7 @@ Media and the arts
 Social sciences
 The college also offers a number of unique programs, such as the Paramedic program, the Baking and Pastry Arts program, and the Jewellery Arts program.
 
-tuition fees at George Brown College for various programs:
+Tuition fees:
 
 English for Academic Purposes (EAP) (ESL):
 Application Fee: $110
